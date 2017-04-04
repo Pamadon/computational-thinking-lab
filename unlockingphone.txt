@@ -1,0 +1,20 @@
+Unlock phone:
+
+enter passcode
+
+Pick up phone
+press home button
+enter 4
+enter 5
+enter 6
+enter 7
+
+Pick up phone
+press home key at bottom
+wait for passlock screen to appear
+find number 4 key
+press number 4 key
+find number 5 key
+press number 5 key
+find number 6 key
+press number 6 key

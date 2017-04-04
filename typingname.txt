@@ -1,0 +1,26 @@
+Type: name
+
+Type - P then E then T then E then R
+
+Open computer
+open program that allows typing
+press P key
+press E key
+Press T key
+Press E key
+Press R key
+
+Find Computer
+Open Computer
+Navigate to Applications folder
+double click on microsoftword
+open new file
+find P key
+press P key
+find E key
+press e key
+find t key
+press t key
+find e key
+press e key
+find r key press r key
